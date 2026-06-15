@@ -16,9 +16,4 @@ Chapters:
 – a Support Vector Machine (Vignesh Govindraj)
 - an Optimisation problem (Vignesh Govindraj)
 
-Group Members Email:
 
-fiona.ncuti@stud.hslu.ch
-maha.hazime-zayour@stud.hslu.ch
-tejeshreddy.koki@stud.hslu.ch
-vignesh.govindraj@stud.hslu.ch
